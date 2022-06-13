@@ -4,7 +4,6 @@
 <head>
 </head>
 <body>
-
 ## My name is Alexis Wood.
 
 <p> I am a first-year Geography PhD student at the University California, Berkeley researching the growing intersections between climate change, digital geographies, and rural socio-political movements. I am particularly interested in secessionist state movements, and how participants incorporate heightening levels of climate anxiety with exisiting feelings of rural marginalization in the physical and digital landscapes. I am both a theorist and geospatial analyst, a human geographer and a physical geographer, and look to merge these often seperated fields/specializations through experimental geospatial methods and cartography at Berkeley's geospatial lab, [Studio.Geo-?](https://studiogeo.berkeley.edu/). <p> 
