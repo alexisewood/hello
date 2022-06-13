@@ -9,17 +9,4 @@ I am a system-impacted, first-generation high school graduate and a product of t
 
 ![image](alexishomeimage.png){: style="float: left"}
 
-<div style="clear: both;">
-  <div style="float: left; margin-right 1em;">
-    <img src="alexishomeimage.png" alt="">
-  </div>
-  <div>
-    <h2>Some title text</h2>
-    <p>Some more text that will appear to the left of the image.</p>
-  </div>
-</div>
-
-### Contact Me
-
-Email me at aew78[at]berkeley.edu
 
