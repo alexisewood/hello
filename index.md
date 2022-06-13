@@ -8,10 +8,3 @@ I am a system-impacted, first-generation high school graduate and a product of t
 
 
 ![image](alexishomeimage.png){: style="float: left"}
-
----
-toc: true
-toc_label: "Unique Title" # defautl: Content
-toc_icon: "heart"  # corresponding Font Awesome icon name without the "fa" prefix
-toc_sticky: true   # enables sticky toc
----
