@@ -9,6 +9,14 @@
   height: 120px;
   border: 3px solid green;
 }
+      
+      #menu {
+  position: fixed;
+  right: 0;
+  top: 50%;
+  width: 8em;
+  margin-top: -2.5em;
+}
      </style>
 </head>
 <body>
