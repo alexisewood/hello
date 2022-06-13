@@ -2,7 +2,7 @@
 
 I am a first-year Geography PhD student at the University California, Berkeley.
 
-![image](alexishomeimage.png){: style="float: left"}
+![image](alexishomeimage.png =100x20){: style="float: left"}
 
 ### Markdown
 
