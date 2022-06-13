@@ -6,12 +6,20 @@ Before starting my PhD program, I worked as a Data Cooridnator for the Redistric
 
 I am a system-impacted, first-generation high school graduate and a product of the California Community College system, transfering into Berkeley as an undergraduate. In this, I am very passionate about helping non-traditional students make their way to university and beyond - please reach out to me with questions about California Community Colleges, the University of California system, and/or application processes.  
 
+
 ![image](alexishomeimage.png){: style="float: left"}
 
-<br/>
-<br/>
-
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="alexishomeimage.png" alt="">
+  </div>
+  <div>
+    <h2>Some title text</h2>
+    <p>Some more text that will appear to the left of the image.</p>
+  </div>
+</div>
 
 ### Contact Me
 
 Email me at aew78[at]berkeley.edu
+
