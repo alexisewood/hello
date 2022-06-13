@@ -8,6 +8,7 @@ I am a system-impacted, first-generation high school graduate and a product of t
 
 ![image](alexishomeimage.png){: style="float: left"}
 
+
 ### Contact Me
 
 Email me at aew78[at]berkeley.edu
